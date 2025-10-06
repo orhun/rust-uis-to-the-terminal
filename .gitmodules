@@ -1,0 +1,6 @@
+[submodule "ratatui"]
+	path = ratatui
+	url = https://github.com/ratatui/ratatui
+[submodule "mousefood"]
+	path = mousefood
+	url = https://github.com/j-g00da/mousefood
